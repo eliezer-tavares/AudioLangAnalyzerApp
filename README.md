@@ -20,12 +20,13 @@ Aplicação desktop para análise de áudio, transcrição, detecção de idioma
 1. Execute: `python main.py`
 2. Selecione um arquivo MP3
 3. Clique em "Analisar Áudio"
-4. Após a análise, clique em "Salvar Relatório PDF"
+4. Após a análise, clique em "Salvar Relatório PDF""
 
-Contato do desenvolvedor:
+## Executando Testes
+1. Instale as dependências de teste: `pip install pytest pytest-mock pytest-cov`
+2. Execute: `pytest --cov=. tests/`
 
-Eliezer Tavares de Oliveira
-
-Linkedin: www.eliezertavaresdeoliveira.com
-
-E-mail: eliezertavaresdeoliveira@gmail.com
+## Contato do desenvolvedor:
+- Eliezer Tavares de Oliveira
+- Linkedin www.eliezertavaresdeoliveira.com
+- E-mail eliezertavaresdeoliveira@gmail.com
