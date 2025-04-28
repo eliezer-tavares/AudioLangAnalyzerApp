@@ -1,6 +1,6 @@
 # AudioLangAnalyzerApp
 
-Aplicação desktop para análise de áudio, transcrição, detecção de idioma e geração de relatórios.
+Aplicação desktop para análise de áudio, transcrição, detecção de idioma e geração de relatórios, em desenvolvimento por um programador deficiente visual total com foco em acessibilidade.
 
 ## Pré-requisitos
 - Python 3.9+
@@ -22,6 +22,10 @@ Aplicação desktop para análise de áudio, transcrição, detecção de idioma
 3. Clique em "Analisar Áudio"
 4. Após a análise, clique em "Salvar Relatório PDF"
 
-## Executando Testes
-1. Instale as dependências de teste: `pip install pytest pytest-mock pytest-cov`
-2. Execute: `pytest --cov=. tests/`
+Contato do desenvolvedor:
+
+Eliezer Tavares de Oliveira
+
+Linkedin: www.eliezertavaresdeoliveira.com
+
+E-mail: eliezertavaresdeoliveira@gmail.com
